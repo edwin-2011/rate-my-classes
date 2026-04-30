@@ -6,4 +6,9 @@ SCHOOL: STEM Collegiate | City: Edmonton, AB | Type: Institute
   COURSE: coding 101 
   COURSE: Robotics 
 
+SCHOOL: testing | City: Edmonton, AB | Type: Institute
+  COURSE: test 
+  COURSE: works? 
+
+
 
