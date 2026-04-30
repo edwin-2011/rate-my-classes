@@ -1,1 +1,9 @@
+SCHOOL: St. Elizabeth Seton | City: Edmonton, AB | Type:Institute
+  COURSE: Math 9
+  COURSE: Science 9 
+
+SCHOOL: STEM Collegiate | City: Edmonton, AB | Type: Institute
+  COURSE: coding 101 
+  COURSE: Robotics 
+
 
