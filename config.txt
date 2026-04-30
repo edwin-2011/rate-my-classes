@@ -1,0 +1,3 @@
+site_name=STEM Hub
+theme=dark
+max_messages=100
