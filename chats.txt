@@ -2,5 +2,4 @@
 [2026-04-30 10:00] System: Welcome to the STEM Hub Lounge!
 MSG: [2026-05-01T01:13:44.948Z] [epaulbibin@gmail.com] just testing
 MSG: [2026-05-01T15:56:43.435Z] [tacowithsourfries@gmail.com] nice
-MSG: [2026-05-01T16:08:26.982Z] [tacowithsourfries@gmail.com] fuck
-MSG: [2026-05-01T16:08:30.614Z] [tacowithsourfries@gmail.com] nigga
+
