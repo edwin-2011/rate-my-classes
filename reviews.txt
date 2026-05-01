@@ -6,5 +6,5 @@ COURSE: Design and fab
 REVIEW: tacowithsourfries@gmail.com: Great class, i loved it, and mr chase was a great teacher. would reccomend | RATING: 5 | DATE: undefined
 COURSE: Aerospace
 REVIEW: tacowithsourfries@gmail.com: great class i love it, mr kennedy is a nice teacher, and i loved the assignments that we had to do, especially the bottle plane | RATING: 5 | DATE: undefined
-COURSE: Coding 101
-REVIEW: takshr91@gmail.com: I don't like coding | RATING: 3 | DATE: 2026-05-01, 11:22:54 a.m.
+COURSE: Robotics
+REVIEW: takshr91@gmail.com: pretty good concept but need more time to build the robots. | RATING: 4 | DATE: 2026-05-01, 11:23:24 a.m.
