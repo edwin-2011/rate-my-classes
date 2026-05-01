@@ -3,3 +3,6 @@ COURSE: works?
 REVIEW: student@example.com: spam spam spam spam spam spam spam spam spam spam spam spam spam | RATING: 5 | DATE: 2026-04-30, 7:09:33 a.m.
 COURSE: test
 REVIEW: student@example.com: qwetyiop | RATING: 1 | DATE: 2026-04-30, 7:23:57 a.m.
+SCHOOL: STEM Collegiate
+COURSE: pc remix
+REVIEW: epaulbibin@gmail.com: I had a fun time in this class building keyboards and my own ethernet cable mr m is so chill and it was not a hard course Must recomend | RATING: 5 | DATE: 4/30/2026, 6:13:23 PM
