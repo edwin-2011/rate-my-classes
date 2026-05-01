@@ -1,15 +1,17 @@
 
 
 SCHOOL: STEM Collegiate | City: Edmonton, AB | Type: Institute
-  COURSE: coding 101 
+  COURSE: Coding 101 
   COURSE: Robotics 
-  COURSE: pc remix
-  COURSE: stem shark tank
-  COURSE: our microworld 
-  COURSE: ag tech
-  COURSE: design and fab
-  COURSE: video game design
+  COURSE: Pc remix
+  COURSE: Stem shark tank
+  COURSE: Our microworld 
+  COURSE: Ag tech
+  COURSE: Design and fab
+  COURSE: Video game design
   COURSE: Graphic design
+  COURSE: Aerospace
+ 
 
 
 
