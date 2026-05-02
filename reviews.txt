@@ -1,14 +1,16 @@
-SCHOOL: STEM Collegiate
-COURSE: Pc remix
+SCHOOL: stem collegiate
+COURSE: pc remix
 REVIEW: epaulbibin@gmail.com: I had a fun time in this class building keyboards and my own ethernet cable mr m is so chill and it was not a hard course Must recomend | RATING: 5 | DATE: undefined
 REVIEW: tacowithsourfries@gmail.com: Pc remix was fun, i liked doing it, but there isnt a lot of stuff to do. mr M is a fun teacher though | RATING: 4 | DATE: undefined
-COURSE: Design and fab
+COURSE: design and fab
 REVIEW: tacowithsourfries@gmail.com: Great class, i loved it, and mr chase was a great teacher. would reccomend | RATING: 5 | DATE: undefined
-COURSE: Aerospace
+COURSE: aerospace
 REVIEW: tacowithsourfries@gmail.com: great class i love it, mr kennedy is a nice teacher, and i loved the assignments that we had to do, especially the bottle plane | RATING: 5 | DATE: undefined
-COURSE: Our microworld
+COURSE: our microworld
 REVIEW: takshr91@gmail.com: Best class to study biology | RATING: 5 | DATE: undefined
-COURSE: Robotics
+COURSE: robotics
 REVIEW: epaulbibin@gmail.com: nice overall but not enough time to do it and cut it with the nursery rhymes | RATING: 3 | DATE: undefined
-COURSE: Stem shark tank
+COURSE: stem shark tank
 REVIEW: epaulbibin@gmail.com: not a good course as the teacher gives such high work and little time and did not give me constructive feedback and told me with a straight face that she does not even know how i will make money but now i have sponsors | RATING: 2 | DATE: 5/1/2026, 10:29:26 AM
+COURSE: aerospace
+REVIEW: epaulbibin@gmail.com: it was an ok class but last onshape project is hard for students new to  onshape and expect them to do it in a short period  of time with youtube videos | RATING: 4 | DATE: 5/1/2026, 8:43:28 PM
