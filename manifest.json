@@ -1,0 +1,63 @@
+{
+  "name": "Rate My Classes",
+  "short_name": "RateMyClasses",
+  "description": "Rate your classes, track GPA, connect with students - The ultimate academic companion",
+  "start_url": "/rate-my-classes/",
+  "scope": "/rate-my-classes/",
+  "display": "standalone",
+  "theme_color": "#0F2B3D",
+  "background_color": "#F5F7FB",
+  "orientation": "portrait",
+  "categories": ["education", "productivity"],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "https://edwin-2011.github.io/rate-my-classes/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://edwin-2011.github.io/rate-my-classes/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://edwin-2011.github.io/rate-my-classes/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://edwin-2011.github.io/rate-my-classes/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://edwin-2011.github.io/rate-my-classes/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://edwin-2011.github.io/rate-my-classes/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://edwin-2011.github.io/rate-my-classes/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://edwin-2011.github.io/rate-my-classes/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
