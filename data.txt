@@ -11,6 +11,7 @@ SCHOOL: STEM Collegiate | City: Edmonton, AB | Type: Institute
   COURSE: Video game design
   COURSE: Graphic design
   COURSE: Aerospace
+  COURSE: testing course 
  
 
 
